@@ -88,6 +88,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [On Generative Algorithms](http://inconvergent.net/generative/) - Notes about generating various organic patterns, with examples and Python code, by Anders Hoff.
 - [Computer Graphics from Scratch](http://www.gabrielgambetta.com/computer-graphics-from-scratch/introduction.html) -  A raytracing and rasterization textbook that teaches you how OpenGL and DirectX works.
 - [A Primer on Bézier Curves](https://pomax.github.io/bezierinfo/) - A free book for when you really need to know how to do Bézier things.
+- [Nerding out with Bezier Curver](https://medium.freecodecamp.org/nerding-out-with-bezier-curves-6e3c0bc48e2f) - Interesting and well described introduction to Bezier Curve and the mathematics behind it
 
 ## Courses
 
@@ -125,7 +126,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 
 ### Visual Programming Languages
 
-- [vvvv](https://vvvv.org/) [Win] - Hybrid visual/textual live-programming environment for easy prototyping and development.
+- [vvvv](https://vvvv.org/) [Mac, Win] - Hybrid visual/textual live-programming environment for easy prototyping and development.
 - [NodeBox](https://www.nodebox.net/node/) [Mac, Win] - Cross-platform, node-based GUI for efficient data visualizations and generative design.
 - [TouchDesigner](http://www.derivative.ca/) [Mac, Win] - Visual development platform to create realtime projects.
 - [Quartz Composer](https://developer.apple.com/library/content/documentation/GraphicsImaging/Conceptual/QuartzComposerUserGuide/qc_intro/qc_intro.html) [Mac] - Development tool for processing and rendering graphical data.
@@ -250,6 +251,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Making WebGL Dance](http://acko.net/files/fullfrontal/fullfrontal/webglmath/online.html) - How I Learnt to Stop Worrying and Love Linear Algebra.
 - [The Pixel Factory](http://acko.net/files/gltalks/pixelfactory/online.html) - Talk about WebGL, GPUs and Math by Steven Wittens.
 - [Poetic Computation](https://www.youtube.com/watch?v=bmztlO9_Wvo&t=387s) - Inspiring talk by Zach Lieberman.
+- [technical artist bootcamp the fvx](https://gdcvault.com/play/1017660/technical-artist-bootcamp-the-fvx) - Tech talk breaking down the fx of Diablo 3
 
 
 ### Articles • Tutorials
@@ -303,11 +305,16 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [An Interactive Introduction to WebGL and three.js](https://www.cs.unm.edu/~angel/SIGGRAPH17/COURSE/s17_final.pdf) - Slides from the SIGGRAPH 2017 WebGL workshop.
 - [How to Start Learning Computer Graphics Programming](https://erkaman.github.io/posts/beginner_computer_graphics.html) - Advice and thoughts on how to get started by Eric Arnebäck.
 - [What Every Coder Should Know About Gamma](http://blog.johnnovak.net/2016/09/21/what-every-coder-should-know-about-gamma/) - Deep dive into the importance of gamma.
+- [Webgl2](https://ics.media/entry/17120?utm_content=buffer0d8bc&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) - List of articles talking about webgl2 feature (in Japanese, translate in English).
+- [Learning shaders by Alan Zucconi](https://www.alanzucconi.com/2018/01/03/learning-shaders/) list of articles and resources and shaders and shader learning
+- [Filament](https://google.github.io/filament/Filament.md.html) - Physically-based rendering engine and resources from google
+
 
 #### Canvas
 
 - [HTML Canvas Deep Dive](http://joshondesign.com/p/books/canvasdeepdive/toc.html) - Profound introduction to the canvas API.
 - [31 days of Canvas tutorials](http://creativejs.com/2011/08/31-days-of-canvas-tutorials/) - Collection of canvas tutorials by Seb Lee-Delisle.
+- [Dive Into HTML Canvas](http://diveintohtml5.info/canvas.html) - Nice single page with all the canvas stuff
 
 #### Hardware
 
@@ -389,6 +396,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [realtimevfx.com](https://realtimevfx.com/) - Real Time VFX Community.
 - [Data Stories](http://datastori.es/) - Podcast on data visualization.
 - [3D Programming Weekly Articles](https://www.3dkingdoms.com/weekly/weekly.php) - Great collection of shader and math related resources.
+- [VFX tips & tricks](https://twitter.com/i/moments/1065646095093526528) - Insane collection of tips and trick to create VFX
 
 
 ## Math
@@ -426,6 +434,10 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [L-systems](https://github.com/arendsee/lsystems) - A Haskell package for L-systems.
 - [Linear Interpolation](https://mattdesl.svbtle.com/linear-interpolation) - Introduction to linear interpolation (also known as mix/lerp).
 - [Practical use of Vector Math in Games](https://www.gamedev.net/articles/programming/math-and-physics/practical-use-of-vector-math-in-games-r2968/) - In-depth article on vectors for game math.
+- [Quick Quaternions](https://developer.apple.com/documentation/accelerate/simd/working_with_quaternions) - A quick quaternions presentation by apple
+- [Resources on mathematics for programmers](http://zehfernando.com/2015/resources-on-mathematics-for-programmers/) - A list of links for math resources
+- [Math is fun](http://mathisfun.com/) - Easy and simply explained, full of resources website for math
+- [Math as code](https://github.com/Jam3/math-as-code) - Series of conversion of maths formulas and symbols into code, with explanations 
 
 ## Machine learning • Computer Vision • Ai
 
