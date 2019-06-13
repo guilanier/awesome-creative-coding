@@ -89,6 +89,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Computer Graphics from Scratch](http://www.gabrielgambetta.com/computer-graphics-from-scratch/introduction.html) -  A raytracing and rasterization textbook that teaches you how OpenGL and DirectX works.
 - [A Primer on Bézier Curves](https://pomax.github.io/bezierinfo/) - A free book for when you really need to know how to do Bézier things.
 - [Nerding out with Bezier Curver](https://medium.freecodecamp.org/nerding-out-with-bezier-curves-6e3c0bc48e2f) - Interesting and well described introduction to Bezier Curve and the mathematics behind it
+- [Reference for 3D Art In Games (2019)](https://www.notion.so/Reference-for-3D-Art-In-Games-2019-00efa37d7c964871af6ca8f460a9e8f9) - focus solely on the 3D related aspects to video games in the AAA space.
 
 ## Courses
 
@@ -251,7 +252,8 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Making WebGL Dance](http://acko.net/files/fullfrontal/fullfrontal/webglmath/online.html) - How I Learnt to Stop Worrying and Love Linear Algebra.
 - [The Pixel Factory](http://acko.net/files/gltalks/pixelfactory/online.html) - Talk about WebGL, GPUs and Math by Steven Wittens.
 - [Poetic Computation](https://www.youtube.com/watch?v=bmztlO9_Wvo&t=387s) - Inspiring talk by Zach Lieberman.
-- [technical artist bootcamp the fvx](https://gdcvault.com/play/1017660/technical-artist-bootcamp-the-fvx) - Tech talk breaking down the fx of Diablo 3
+- [Technical Artist Bootcamp The Vfx](https://gdcvault.com/play/1017660/technical-artist-bootcamp-the-fvx) - Tech talk breaking down the fx of Diablo 3
+- [Design Fluid Interfaces](https://developer.apple.com/videos/play/wwdc2018/803/) - Learn how to design with gestures and motion that feel intuitive and natural, making your app a delight to use.
 
 
 ### Articles • Tutorials
