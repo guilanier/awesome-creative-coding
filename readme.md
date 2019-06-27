@@ -70,6 +70,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Graphics Shaders: Theory and Practice](https://www.amazon.com/Graphics-Shaders-Theory-Practice-Second/dp/1568814348/) - Introduction to shader programming in general, but focusing on the GLSL shading language.
 - [Anton's OpenGL 4 Tutorials](https://www.amazon.com/gp/product/B00LAMQYF2/) -  Practical guide to starting 3d programming with OpenGL.
 - [Physics for JavaScript Games, Animation, and Simulations](http://www.apress.com/us/book/9781430263371) - Teaches JavaScript programmers how to incorporate real physics into their HTML5 games, animations, and simulations.
+- [Math for Programmers](https://www.manning.com/books/math-for-programmers) - Book teaches you to solve mathematical problems in code.
 
 ## Online Books
 
@@ -124,6 +125,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [PlayCanvas](https://playcanvas.com/) [Cross-platform] - Open source, realtime collaborative WebGL engine.
 - [hg_sdf](http://mercury.sexy/hg_sdf/) [Cross-platform] - GLSL library for building signed distance functions.
 - [HYPE](http://www.hypeframework.org/) [Cross-platform] - HYPE_processing, is a collection of classes that performs heavy lifting tasks while using a minimal amount of code writing.
+- [PixelKit](http://pixelkit.net/) [iOS, Mac] - Open source, live graphics, Swift framework, powered by Metal.
 
 ### Visual Programming Languages
 
@@ -197,6 +199,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [P5.js Editor](https://editor.p5js.org/) - Online web editor for P5.js.
 - [Turtletoy](https://turtletoy.net/) - Minimalistic API and online showcase for generative code. (Javascript)
 - [ShaderGif](https://shadergif.com/) - Open source home for art made with code (WebGL1/2, JavaScript Canvas & P5.js).
+- [P5LIVE](https://teddavis.org/p5live/) - p5.js live-coding environment.
 
 ### Hardware
 
@@ -234,6 +237,8 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Shaders Laboratory](https://www.youtube.com/channel/UCDk9-aPr8zQzwi4ylnuoJ6w) - YouTube channel about shaders.
 - [Makin' Stuff Look Good](https://www.youtube.com/channel/UCEklP9iLcpExB8vp_fWQseg) - YouTube channel about shaders case studies.
 - [openFrameworks tutorials](https://www.youtube.com/watch?v=IKSTo_0pB28&index=51&list=PL4neAtv21WOmrV8z9rSzL20QpdLU1zJLr) - YouTube playlist about openFrameworks.
+- [Shader Tutorial Series](https://www.youtube.com/watch?v=HIvNePu7UEE&list=PL4neAtv21WOmIrTrkNO3xCyrxg4LKkrF7) - YouTube playlist about Shaders, using Visual Studio Code.
+- [Kha Tutorial Series](https://www.youtube.com/watch?v=5Uxht76ODtQ&list=PL4neAtv21WOmmR5mKb7TQvEQHpMh1h0po) - YouTube playlist about the Kha framework, built in Haxe.
 - [Fun with WebGL 2.0](https://www.youtube.com/watch?v=LtFujAtKM5I&list=PLMinhigDWz6emRKVkVIEAaePW7vtIkaIF) - YouTube playlist about WebGL 2.0.
 - [Modern OpenGL 3.0+ Tutorials](https://www.youtube.com/playlist?list=PLRtjMdoYXLf6zUMDJVRZYV-6g6n62vet8) - YouTube playlist about modern OpenGL.
 - [Vertexshaderart](https://www.youtube.com/channel/UC6IqL5vkMJpqBG_bFDjsaxw) - YouTube playlist about vertex shaders.
@@ -369,6 +374,8 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [PixelSpirit](http://pixelspiritdeck.com/) - GLSL library on the back of tarot cards, for learning and reference.
 - [Procedural Patterns And Noises](http://www.neilblevins.com/cg_education/procedural_noise/procedural_noise.html) - Collection of procedural patterns and procedural noises.
 - [Three.js Reference](https://www.udacity.com/wiki/cs291/threejs-reference) - Reference from the Udacity Interactive 3D Graphics course.
+- [Visual Noises](https://ramesaliyev.com/visual-noises/) - Visualize noise algorithms in 1D and 2D.
+- [Trigonoparty](https://ramesaliyev.com/trigonoparty/) - Simple trigonometry visualisation.
 
 
 ## Communities
