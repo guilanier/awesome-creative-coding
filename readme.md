@@ -347,6 +347,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Amit’s Game Programming Information](http://www-cs-students.stanford.edu/~amitp/gameprog.html) - Collection of resources on stuff like path-finding, Ai, math etc.
 - [Tips to Improve Your Generative Artwork](http://www.tylerlhobbs.com/writings/tips) - Tips to make your art look better.
 - [Working With Color in Generative Art](http://www.tylerlhobbs.com/writings/generative-colors) - Tips on how to get color right.
+- [30 days of shades](https://github.com/willstall/30-days-of-shade) - An interactive demo of my 30 days of shaders in GLSL using GLSLCanvas
 
 
 ### Interactive
@@ -412,7 +413,8 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [realtimevfx.com](https://realtimevfx.com/) - Real Time VFX Community.
 - [Data Stories](http://datastori.es/) - Podcast on data visualization.
 - [3D Programming Weekly Articles](https://www.3dkingdoms.com/weekly/weekly.php) - Great collection of shader and math related resources.
-- [VFX tips & tricks](https://twitter.com/i/moments/1065646095093526528) - Insane collection of tips and trick to create VFX
+- [VFX tips & tricks *twitter*](https://twitter.com/i/moments/1065646095093526528) - Insane collection of tips and trick to create VFX
+- [VFX artist halisavakis blog posts](https://halisavakis.com/category/blog-posts/) - shader and vfx blog posts (also this guy has all sorts of really good articles on shaders)
 
 
 ## Math
