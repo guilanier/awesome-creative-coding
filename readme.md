@@ -322,6 +322,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Webgl2](https://ics.media/entry/17120?utm_content=buffer0d8bc&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) - List of articles talking about webgl2 feature (in Japanese, translate in English).
 - [Learning shaders by Alan Zucconi](https://www.alanzucconi.com/2018/01/03/learning-shaders/) list of articles and resources and shaders and shader learning
 - [Filament](https://google.github.io/filament/Filament.md.html) - Physically-based rendering engine and resources from google
+- [Cat like coding C# and Shader Tutorials](https://catlikecoding.com/unity/tutorials/) - A list of interesting tutorials written for Unity (flow, mesh deformation,…)
 
 
 #### Canvas
@@ -348,6 +349,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Tips to Improve Your Generative Artwork](http://www.tylerlhobbs.com/writings/tips) - Tips to make your art look better.
 - [Working With Color in Generative Art](http://www.tylerlhobbs.com/writings/generative-colors) - Tips on how to get color right.
 - [30 days of shades](https://github.com/willstall/30-days-of-shade) - An interactive demo of my 30 days of shaders in GLSL using GLSLCanvas
+- [Minions Art Patreon](https://vote.lovieawards.eu/PublicVoting?#/2019/online-advertising/online-advertising-campaign/best-event-activation-campaign) - Tutorials list of the great minions art shader and game resources 
 
 
 ### Interactive
