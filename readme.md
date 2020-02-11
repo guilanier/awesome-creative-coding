@@ -91,6 +91,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [A Primer on Bézier Curves](https://pomax.github.io/bezierinfo/) - A free book for when you really need to know how to do Bézier things.
 - [Nerding out with Bezier Curver](https://medium.freecodecamp.org/nerding-out-with-bezier-curves-6e3c0bc48e2f) - Interesting and well described introduction to Bezier Curve and the mathematics behind it
 - [Reference for 3D Art In Games (2019)](https://www.notion.so/Reference-for-3D-Art-In-Games-2019-00efa37d7c964871af6ca8f460a9e8f9) - focus solely on the 3D related aspects to video games in the AAA space.
+- [3D Game Shaders For Beginners](https://lettier.github.io/3d-game-shaders-for-beginners) - Step-by-step guide to real-time shading techniques.
 
 ## Courses
 
