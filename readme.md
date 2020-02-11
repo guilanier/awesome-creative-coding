@@ -261,6 +261,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Diving in Three.js](https://www.youtube.com/playlist?list=PL08jItIqOb2qyMOhtEUoLh100KpccQiRf) - YouTube playlist diving into three.js.
 - [Shadertoy Tutorials](https://www.youtube.com/watch?v=u5HAYVHsasc&list=PLGmrMu-IwbguU_nY2egTFmlg691DN7uE5) - YouTube playlist teaching you how to make shaders, starting with zero knowledge using shadertoy.
 - [WebGL Lightning](https://www.youtube.com/playlist?list=PLxaZqnd-OQM7Y0lfe7h2cjlQAm5O9_6UL) - Introduction to WebGL lightning with Greg Tatum.
+- [Pause Process](https://www.youtube.com/watch?v=_26Fg09tW_0&list=PLHw_BlkJR20i7OSO9rzL_cCW7Wh84N12o) - Series of videos about techniques and aestetics in video game (french)
 
 ### Talks
 
@@ -345,7 +346,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 
 - [Pen Plotter Art & Algorithms Part 1](https://mattdesl.svbtle.com/pen-plotter-1), [2](https://mattdesl.svbtle.com/pen-plotter-2) - How to use the AxiDraw pen plotter with JavaScript.
 
-#### Other
+#### Other (game,…)
 
 - [Cat Like Coding](http://catlikecoding.com/unity/tutorials/) - In depth tutorials on math, algorithms and Unity.
 - [Fun Programming](http://funprogramming.org/) - Learn creative coding writing simple programs.
@@ -360,6 +361,8 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Working With Color in Generative Art](http://www.tylerlhobbs.com/writings/generative-colors) - Tips on how to get color right.
 - [30 days of shades](https://github.com/willstall/30-days-of-shade) - An interactive demo of my 30 days of shaders in GLSL using GLSLCanvas
 - [Minions Art Patreon](https://vote.lovieawards.eu/PublicVoting?#/2019/online-advertising/online-advertising-campaign/best-event-activation-campaign) - Tutorials list of the great minions art shader and game resources 
+- [Envato Tutplus Game design resources](https://gamedevelopment.tutsplus.com/categories/game-design) - Insane amount of good articles and resources about game design
+- [Tiny Game Design Tool](http://tinygdtool.urustar.net/) - Small, portable booklet created in order to help game designers to come up with cool ideas
 
 
 ### Interactive
