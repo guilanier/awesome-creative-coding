@@ -150,7 +150,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [cables](https://cables.gl) [Cross-platform/Web] - Your model kit for creating beautiful interactive content. Currently in private beta, invites can be requested.
 - [Notch Builder](https://www.notch.one) [Win] - Node-based authoring tool with a strong focus on real-time graphics. Currently in beta.
 - [Synopsis](https://synopsis.video/) - A suite of open source software for computational cinematography.
-
+- [JOY.JS](https://ncase.me/joy/) - Realtime visual coding tool, easy to understand and aimed at beginners.
 ### Sound Programming Languages
 
 - [SuperCollider](http://supercollider.github.io/) [Multi-platform] - Platform for audio synthesis and algorithmic composition.
@@ -577,7 +577,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 
 ## Special Thanks
 
-[<img src="https://frontendmasters.com/static/frontendmasters.0e71088726.svg" height="25">](https://frontendmasters.com)
+[<img src="https://static.frontendmasters.com/assets/fm/js/frontendmasters.478a4e60fe.svg" height="35">](https://frontendmasters.com)
 
 
 ## License
