@@ -299,6 +299,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Three glslify example](https://github.com/mattdesl/three-glslify-example) - Example on how to use three.js with glslify.
 - [WebGL Beyond Dom](https://github.com/gregtatum/talk-webgl-beyond-dom) - Greg Tatum explain the basic of WebGL using Regl.
 - [FBO particles](http://barradeau.com/blog/?p=621) - Article about FBO/GPGPU particles by @nicoptere.
+- [Rendering 100k spheres, instantiating and draw calls](https://velasquezdaniel.com/blog/rendering-100k-spheres-instantianing-and-draw-calls/#Curl-Simulation-Series) - Good article about Instanced mesh and buffer geometries
 - [Ray marching (with THREE.js)](http://barradeau.com/blog/?p=575) - Article about ray marching with three.js by @nicoptere.
 - [Custom shaders with Three.JS](https://csantosbh.wordpress.com/2014/01/09/custom-shaders-with-three-js-uniforms-textures-and-lighting/) - Introduction to custom shaders, uniforms, textures and lighting in three.js.
 - [An intro to modern OpenGL](http://duriansoftware.com/joe/An-intro-to-modern-OpenGL.-Chapter-1:-The-Graphics-Pipeline.html) - First part of an introduction to modern OpenGL.
@@ -335,6 +336,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Learning shaders by Alan Zucconi](https://www.alanzucconi.com/2018/01/03/learning-shaders/) list of articles and resources and shaders and shader learning
 - [Filament](https://google.github.io/filament/Filament.md.html) - Physically-based rendering engine and resources from google
 - [Cat like coding C# and Shader Tutorials](https://catlikecoding.com/unity/tutorials/) - A list of interesting tutorials written for Unity (flow, mesh deformation,…)
+
 
 
 #### Canvas
