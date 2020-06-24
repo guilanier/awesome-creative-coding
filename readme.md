@@ -333,6 +333,8 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Learning shaders by Alan Zucconi](https://www.alanzucconi.com/2018/01/03/learning-shaders/) list of articles and resources and shaders and shader learning
 - [Filament](https://google.github.io/filament/Filament.md.html) - Physically-based rendering engine and resources from google
 - [Cat like coding C# and Shader Tutorials](https://catlikecoding.com/unity/tutorials/) - A list of interesting tutorials written for Unity (flow, mesh deformation,…)
+- [Noise & Pattern texture Resources](https://www.patreon.com/posts/noise-pattern-36130209?utm_medium=post_notification_email&utm_source=post_link&utm_campaign=patron_engagement) - article with an handful of resources to generate noise patterns textures, article from Minions Art
+- [EffectTextureMaker](https://mebiusbox.github.io/contents/EffectTextureMaker/) - WebGl to create noise and various types of textures, including seamless options
 
 
 
