@@ -12,7 +12,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 
 ⭐ **Don't know where to start?** Check out **[Creative Coding course on Frontend Masters](https://frontendmasters.com/courses/canvas-webgl/)**. ⭐
 
-🌟 **Want to go depper?** Check out **[Advanced Creative Coding with WebGL & Shaders on Frontend Masters](https://frontendmasters.com/courses/webgl-shaders/)**. 🌟
+🌟 **Want to go deeper?** Check out **[Advanced Creative Coding with WebGL & Shaders on Frontend Masters](https://frontendmasters.com/courses/webgl-shaders/)**. 🌟
 
 ---
 
@@ -97,6 +97,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Reference for 3D Art In Games (2019)](https://www.notion.so/Reference-for-3D-Art-In-Games-2019-00efa37d7c964871af6ca8f460a9e8f9) - focus solely on the 3D related aspects to video games in the AAA space.
 - [3D Game Shaders For Beginners](https://lettier.github.io/3d-game-shaders-for-beginners) - Step-by-step guide to real-time shading techniques.
 - [XEM WebGL Guide](https://xem.github.io/articles/webgl-guide.html) - Step-by-step guide to WebGL.
+- [WebGL Academy](http://www.webglacademy.com/) - Learn WebGL and 3D algorithmic in a progressive and interactive way.
 
 ## Courses
 
@@ -127,6 +128,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [openFrameworks](http://openframeworks.cc/) [Cross-platform] - Open source C++ toolkit for creative coding.
 - [C4](http://www.c4ios.com) [iOS] - Open-source creative coding framework for iOS.
 - [Unity](https://unity3d.com/) [Mac, Win] - Game engine, but useful for creative coding and installations.
+- [Godot](https://github.com/godotengine/godot) [Cross-platform] - Open source game engine, that can also be used for all sorts of things.
 - [PlayCanvas](https://playcanvas.com/) [Cross-platform] - Open source, realtime collaborative WebGL engine.
 - [hg_sdf](http://mercury.sexy/hg_sdf/) [Cross-platform] - GLSL library for building signed distance functions.
 - [HYPE](http://www.hypeframework.org/) [Cross-platform] - HYPE_processing, is a collection of classes that performs heavy lifting tasks while using a minimal amount of code writing.
@@ -141,7 +143,8 @@ Creative coding is a different discipline than programming systems. The goal is 
 
 ### Visual Programming Languages
 
-- [vvvv](https://vvvv.org/) [Mac, Win] - Hybrid visual/textual live-programming environment for easy prototyping and development.
+- [vvvv](https://vvvv.org/) [Win] - Hybrid visual/textual live-programming environment for easy prototyping and development.
+- [VisualScript](https://docs.godotengine.org/en/stable/getting_started/scripting/visual_script/) [Cross-platform] - Visual coding language in the Godot game engine. 
 - [NodeBox](https://www.nodebox.net/node/) [Mac, Win] - Cross-platform, node-based GUI for efficient data visualizations and generative design.
 - [TouchDesigner](http://www.derivative.ca/) [Mac, Win] - Visual development platform to create realtime projects.
 - [Quartz Composer](https://developer.apple.com/library/content/documentation/GraphicsImaging/Conceptual/QuartzComposerUserGuide/qc_intro/qc_intro.html) [Mac] - Development tool for processing and rendering graphical data.
@@ -227,6 +230,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [P5LIVE](https://teddavis.org/p5live/) - p5.js live-coding environment.
 - [NEORT](https://neort.io/popular) - Digital art platform for creative coders (Fragment Shader, Javascript Canvas).
 - [Shelly](https://shelly.dev/) - Learn programming by issuing instructions to a turtle.
+- [tixy.land](https://tixy.land) - The most minimalist creative coding environment is alive.
 
 ### Hardware
 
