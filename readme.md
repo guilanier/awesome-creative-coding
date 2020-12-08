@@ -144,7 +144,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 ### Visual Programming Languages
 
 - [vvvv](https://vvvv.org/) [Win] - Hybrid visual/textual live-programming environment for easy prototyping and development.
-- [VisualScript](https://docs.godotengine.org/en/stable/getting_started/scripting/visual_script/) [Cross-platform] - Visual coding language in the Godot game engine. 
+- [VisualScript](https://docs.godotengine.org/en/stable/getting_started/scripting/visual_script/) [Cross-platform] - Visual coding language in the Godot game engine.
 - [NodeBox](https://www.nodebox.net/node/) [Mac, Win] - Cross-platform, node-based GUI for efficient data visualizations and generative design.
 - [TouchDesigner](http://www.derivative.ca/) [Mac, Win] - Visual development platform to create realtime projects.
 - [Quartz Composer](https://developer.apple.com/library/content/documentation/GraphicsImaging/Conceptual/QuartzComposerUserGuide/qc_intro/qc_intro.html) [Mac] - Development tool for processing and rendering graphical data.
@@ -195,9 +195,9 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [luma.gl](https://github.com/uber/luma.gl) - WebGL2 Components for Data Visualization.
 - [css-doodle](https://css-doodle.com/) - A web component for drawing patterns with CSS.
 - [OGL.js](https://github.com/oframe/ogl) - JavaScript 3D library (WebGL)
-- [Zdog](https://zzz.dog/) - A pseudo-3D engine for canvas & SVG 
-- [Oimo.js](https://github.com/lo-th/Oimo.js/) - Lightweight 3d physics engine for javascript 
-- [Ammo.js](https://github.com/kripken/ammo.js/) - Direct port of the Bullet physics engine to JavaScript using Emscripten 
+- [Zdog](https://zzz.dog/) - A pseudo-3D engine for canvas & SVG
+- [Oimo.js](https://github.com/lo-th/Oimo.js/) - Lightweight 3d physics engine for javascript
+- [Ammo.js](https://github.com/kripken/ammo.js/) - Direct port of the Bullet physics engine to JavaScript using Emscripten
 
 ### Projection Mapping • VJing
 
@@ -259,6 +259,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [DrawBot](http://www.drawbot.com/) [Mac] - Education oriented 2d graphics programming environment based on python.
 - [Klak](https://github.com/keijiro/Klak) - A collection of scripts for creative coding with Unity.
 - [basil.js](http://basiljs.ch/) - Scripting (JS) in InDesign for designers and artists in the spirit of Processing.
+- [Konstrukt](https://github.com/MarcelMue/konstrukt) [Cross-platform] - A commandline tool to generate different scaleable patterns as SVGs.
 
 ## Learning Resources
 
@@ -430,6 +431,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [r/shaders](https://www.reddit.com/r/shaders/) - Subreddit on shaders.
 - [r/proceduralgeneration](https://www.reddit.com/r/proceduralgeneration/) - Subreddit on procedural generation.
 - [r/MachineLearning](https://www.reddit.com/r/MachineLearning/) - Subreddit on machine learning.
+- [r/generative](https://www.reddit.com/r/generative/) - Subreddit on generative art and music.
 
 ### Slack
 
@@ -546,7 +548,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Curated Creative Events](http://events.thesupply.com/) - Hand-picked design, code, art, fashion and maker events.
 - [NextArt Night](https://nextart.tech/) - Inspiring people through creative uses of tech.
 - [GROW](https://www.grow.paris/) - The Parisian rendez-vous for creative coders, GROW is about opening new possibilities in digital creation.
-  
+
 ## Museums • Galleries
 - [ZKM — Zentrum für Kunst und Medien, Karlsruhe/Germany](https://zkm.de) -  ZKM organizes exhibitions and events on the effects of media, digitization, and globalization.
 - [Ars Electronica Center, Linz/Austria](https://ars.electronica.art/center/) - Museum of the Future — a place where diverse blends of artistic genres, scientific domains and technological directions are displayed and processed.
