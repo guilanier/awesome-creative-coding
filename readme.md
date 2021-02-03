@@ -140,6 +140,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [OPENRNDR](https://openrndr.org/) [Cross-platform] - Open source library for creative coding written in Kotlin.
 - [Phaser](https://phaser.io/) [Cross-platform] - HTML5 framework for building games, uses both a Canvas and WebGL renderer.
 - [Canvas-sketch](https://github.com/mattdesl/canvas-sketch) [Cross-platform] - HTML5 framework for making generative artwork in JavaScript and the browser.
+- [Tixyz](https://doersino.github.io/tixyz/) [Cross-platform] - It's a minimalist three-dimensional coding environment
 
 ### Visual Programming Languages
 
@@ -295,6 +296,8 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Generative Machines](https://www.youtube.com/watch?v=8Uo6zFwSO78) - FITC talk by Matt DesLauriers about his passion for generative art.
 - [Technical Artist Bootcamp The Vfx](https://gdcvault.com/play/1017660/technical-artist-bootcamp-the-fvx) - Tech talk breaking down the fx of Diablo 3
 - [Design Fluid Interfaces](https://developer.apple.com/videos/play/wwdc2018/803/) - Learn how to design with gestures and motion that feel intuitive and natural, making your app a delight to use.
+- [Design for the IpadOS pointer](https://developer.apple.com/videos/play/wwdc2020/10640/) - It shows how Apple's design team approached designing the iPadOS pointer to complement touch input
+- [Yi-Wen Lin: Another Dimension GROW 2018](https://www.youtube.com/watch?v=Scfb9jHKLz4) - Yi-Wen freelance creative coder talks about his tips and tricks to make twist-minded webgl experiences
 
 ### Articles • Tutorials
 
