@@ -171,6 +171,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Sonic Pi](http://sonic-pi.net/) - The live coding music synth for everyone.
 - [Csound](https://csound.com/) - A sound and music computing system.
 - [Orca](https://100r.co/pages/orca.html) - Live coding environment to quickly create procedural sequencers.
+- [handel](https://handel-pl.github.io/) - A small procedural programming language for writing songs in browser. 
 
 ### Web Programming • Libraries
 
@@ -340,7 +341,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [THREE.js & instanced geometry](http://barradeau.com/blog/?p=1109) - Fluffy predator with three.js and instanced geometry.
 - [Particle Effects via Billboards](http://www.chinedufn.com/webgl-particle-effect-billboard-tutorial/) - How to create a particle effects with billboarding and WebGL.
 - [Beautifully Animate Points with WebGL and regl](https://peterbeshai.com/beautifully-animate-points-with-webgl-and-regl.html) - How to create GPGPU particles with regl.
-- [WebGL Tutorial: Directional Shadow Mapping without extensions](9www.chinedufn.com/webgl-shadow-mapping-tutorial/) - Introduction to the concepts behind real time directional light shadow mapping.
+- [WebGL Tutorial: Directional Shadow Mapping without extensions](https://www.chinedufn.com/webgl-shadow-mapping-tutorial/) - Introduction to the concepts behind real time directional light shadow mapping.
 - [WebGL Quest](http://xem.github.io/articles/#webgl_quest_2) - A tutorial and a list of useful resources to use WebGL raymarching and distance functions easily.
 - [Exploring bump mapping with WebGL](http://apoorvaj.io/exploring-bump-mapping-with-webgl.html) - Introduction to different bump mapping techniques.
 - [OpenGL/GLSL Shader Programing](http://web.cse.ohio-state.edu/~wang.3602/courses/cse5542-2013-spring/13-GLSL.pdf) - Deck on OpenGL/GLSL shader programing.
@@ -405,7 +406,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Shaderific GLSL](http://www.shaderific.com/glsl/) - OpenGL ES shading language reference.
 - [The Book of Shaders Glossary](https://thebookofshaders.com/glossary/) - Shader glossary by theme.
 - [gltut glossary pages: 1](https://paroj.github.io/gltut/Basics/Intro%20Glossary.html), [2](https://paroj.github.io/gltut/Basics/Tut01%20Glossary.html), [3](https://paroj.github.io/gltut/Basics/Tut02%20Glossary.html), [4](https://paroj.github.io/gltut/Positioning/Tut04%20Glossary.html), [5](https://paroj.github.io/gltut/Positioning/Tut05%20Glossary.html), [6](https://paroj.github.io/gltut/Positioning/Tut06%20Glossary.html), [7](https://paroj.github.io/gltut/Positioning/Tut07%20Glossary.html), [8](https://paroj.github.io/gltut/Positioning/Tut08%20Glossary.html) - OpenGL 3D programming glossary.
-- [Canvas Cheatsheet](https://skilled.co/html-canvas/images/HTML_Canvas_Cheatsheet.pdf) - Quick and visual canvas cheatsheet.
+- [Canvas Cheatsheet](https://web.archive.org/web/20171226205420/https://skilled.co/html-canvas/) - Quick and visual canvas cheatsheet.
 - [WebGL Cheatsheet](https://www.khronos.org/files/webgl/webgl-reference-card-1_0.pdf) - WebGL 1.0 API reference card.
 - [Glossary of Computer Graphics](https://en.wikipedia.org/wiki/Glossary_of_computer_graphics) - Glossary of terms relating computer graphics.
 - [GLSL Reference Guide](http://www.cs.cmu.edu/afs/cs/academic/class/15462-f10/www/lec_slides/glslref.pdf) - OpenGL Shading Language quick reference guide.
